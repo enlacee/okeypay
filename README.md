@@ -1,14 +1,14 @@
-# OkeyPay (Back-end and Fron-end)
+# OkeyPay
 
-Verified **Yape** payments
+Verified **Yape** payments  
 The principal feature is to give more functionality than The Yape native application
 
-Front-end android mobile
+Frontend Android
 
 ![Okeypay app](./docs/README/Screenshot_20240702_131158.png)
 
 
-Front-end web
+Frontend web
 
 ![OkeyPay web](./docs/README/Screenshot_20240809_013708.png)
 
