@@ -14,3 +14,8 @@ Frontend Android
 Backend
 
 ![OkeyPay appscript](./docs/README/Screenshot_20241111_190608.png)
+
+
+# the project
+
+cd docs
