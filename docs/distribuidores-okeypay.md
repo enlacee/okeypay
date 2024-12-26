@@ -45,7 +45,7 @@ En cada revisión se evaluará:
 - Se capacitará al distribuidor en aspectos técnicos clave:  
   - Instalación y configuración de OkeyPay.  
   - Funcionalidades y limitaciones del producto.  
-- Material de soporte disponible en la web oficial ([okeypay.anibalcopitan.com/distribuidores.html](https://okeypay.anibalcopitan.com/distribuidores.html)) para optimizar el proceso de ventas.  
+- Material de soporte disponible en la web oficial ([okeypay.anibalcopitan.com/distribuidores-okeypay.html](https://okeypay.anibalcopitan.com/distribuidores-okeypay.html)) para optimizar el proceso de ventas.
 
 ## **5. Gestión de Comisiones**  
 - Las comisiones serán gestionadas manualmente y pagadas mensualmente al distribuidor, previa revisión de las ventas registradas.  
