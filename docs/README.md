@@ -24,3 +24,7 @@ Common commands
     npm run watch
     npm run build # for production
 
+
+optional
+
+    npm run scss
