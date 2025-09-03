@@ -1,51 +1,69 @@
-# **Modelo de Membresía para Distribuidores de OkeyPay**
+# Oportunidades de Negocio con OkeyPay
 
-## **1. Membresía Inicial**  
-- **Costo:** $15 USD (mínimo y obligatorio).  
-  Este pago inicial cubre:  
-  - Soporte técnico y capacitaciones iniciales.  
-  - Acceso al derecho de distribuir OkeyPay como representante autorizado.  
+¿Quieres ganar dinero con OkeyPay? Elige el modelo que mejor se adapta a ti:
 
-- **Condición de Continuidad:**  
-  - Si el distribuidor no logra al menos **1 suscriptor en los primeros 3 meses**, se entenderá que no hay interés en el producto y se rescindirá el contrato automáticamente.  
+- [Opción 1: Distribuidor Autorizado OkeyPay](#opción-1-distribuidor-autorizado-okeypay)  
+- [Opción 2: Marca Blanca OkeyPay](#opción-2-marca-blanca-okeypay)  
 
-- **Comisión por Ventas:**  
-  - El distribuidor recibirá un **40% de las ganancias mensuales por cada usuario que registre**.  
-    Ejemplo: Por una suscripción de $5 USD, el distribuidor ganará **$2 USD por usuario**.  
-  - Las comisiones pueden revisarse y ajustarse cada 3-6 meses según resultados.
+## Opción 1: Distribuidor Autorizado OkeyPay
 
-- **Duración de la Comisión de Distribuidor:**
-  - El distribuidor recibirá una comisión del **40% durante el primer año** de cada suscripción que logre.
-  - Después de ese período, OkeyPay tomará el control total de las suscripciones y, debido al constante soporte, mantenimiento y actualizaciones de la plataforma, **el distribuidor no recibirá más comisiones de esas suscripciones**. Esta medida es necesaria para garantizar la sostenibilidad y el crecimiento de la plataforma, a la vez que OkeyPay asume la responsabilidad de la operación continua, ajustes de precios y la evolución del producto.
+Inversión mínima, inicio rápido.
 
-## **2. Obligaciones del Contrato**  
-### **Del creador de OkeyPay:**  
-- Mantener el soporte técnico y funcional de la aplicación.  
-- Tener total control sobre los precios, planes, y ajustes del producto.  
-- Proporcionar capacitaciones técnicas y materiales de apoyo al distribuidor.  
+### Membresía Inicial
 
-### **Del distribuidor:**  
-- Dedicarse exclusivamente a la venta y promoción del producto.  
-- Identificarse como **distribuidor autorizado** y no como creador.  
-- Respetar y mencionar los créditos del creador en todas las comunicaciones y ventas, incluyendo:  
-  - Nombre del creador.  
-  - Página oficial y soporte: [okeypay.anibalcopitan.com](https://okeypay.anibalcopitan.com).  
+- **Costo único:** $15 USD (mínimo y obligatorio).
+- Incluye:
+    - Soporte técnico y capacitaciones iniciales.
+    - Acceso a distribuir OkeyPay como **representante autorizado**.
 
-**Incumplimientos graves**:  
-- Si el distribuidor se hace pasar por creador o no menciona los créditos establecidos, el contrato podrá ser cancelado unilateralmente por el creador.  
+### Ganancias
 
-## **3. Revisión Periódica (3-6 meses)**  
-En cada revisión se evaluará:  
-- Número de ventas alcanzadas por cada distribuidor.  
-- Posibilidad de ajustes en precios o comisiones.  
-- Implementación de incentivos por metas cumplidas.  
-- Consideración de limitar el número de distribuidores si es necesario.  
+- **Comisión:** 40% del valor de cada suscripción durante el **primer año**.
+- Ejemplo: Por cada usuario de $5 USD/mes → tú ganas $2 USD.
+- Pagos mensuales, previa verificación de ventas.
 
-## **4. Soporte y Capacitación**  
-- Se capacitará al distribuidor en aspectos técnicos clave:  
-  - Instalación y configuración de OkeyPay.  
-  - Funcionalidades y limitaciones del producto.  
-- Material de soporte disponible en la web oficial ([okeypay.anibalcopitan.com/distribuidores-okeypay.html](https://okeypay.anibalcopitan.com/distribuidores-okeypay.html)) para optimizar el proceso de ventas.
+### Condiciones
 
-## **5. Gestión de Comisiones**  
-- Las comisiones serán gestionadas manualmente y pagadas mensualmente al distribuidor, previa revisión de las ventas registradas.  
+- Necesitas al menos **1 suscriptor en los primeros 3 meses**.
+- Después del primer año, la suscripción pasa a OkeyPay (para garantizar soporte y evolución del producto).
+
+**Ideal para personas que quieren empezar con bajo riesgo, generar ingresos rápidos y aprender el negocio.**
+
+## Opción 2: Marca Blanca OkeyPay
+
+Tu propio negocio, con tu marca.
+### Planes Disponibles
+
+- **Plan Base:** $300 USD → Personalización mínima (tu logo, colores).
+- **Plan Premium:** $600 USD → Personalización avanzada + soporte dedicado + publicación en Google Play con tu marca.
+
+### Ganancias Recurrentes
+
+- **$1 USD por cada suscriptor de tu cliente.**
+- Controlas tu propia base de usuarios y tu marca.
+
+### Soporte
+
+- Pago fijo mensual de **$15 USD**
+    - O bien **$1 por cliente activo** (lo que sea mayor).
+- Aplica desde la activación del primer usuario.
+
+**Ideal para emprendedores que buscan independencia de marca, clientes propios y un negocio escalable.**
+
+## Diferencias Clave
+
+|Característica|Distribuidor|Marca Blanca|
+|---|---|---|
+|**Inversión inicial**|$15 USD|$300 – $600 USD|
+|**Ganancias**|40% por suscripción (primer año)|$1 USD por cliente activo (recurrente)|
+|**Marca propia**|No|Sí|
+|**Control de clientes**|Limitado|Total|
+|**Soporte**|Incluido|Pago mensual $15 o $1/cliente|
+
+## Conclusión
+
+- Si quieres **probar rápido y sin mucho riesgo → Distribuidor**.
+- Si buscas **independencia y construir tu marca → Marca Blanca**.
+
+[Solicitar ser Distribuidor](https://wa.me/51970142637?text=Hola%2C%20quiero%20ser%20Distribuidor%20OkeyPay)  
+[Solicitar Marca Blanca](https://wa.me/51970142637?text=Hola%2C%20quiero%20informaci%C3%B3n%20sobre%20la%20Marca%20Blanca%20OkeyPay)
