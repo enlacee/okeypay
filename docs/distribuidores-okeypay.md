@@ -24,14 +24,15 @@ Inversión mínima, inicio rápido.
 
 ### Condiciones
 
-- Necesitas al menos **1 suscriptor en los primeros 3 meses**.
+- Necesitas al menos **1 suscriptor al mes**.
 - Después del primer año, la suscripción pasa a OkeyPay (para garantizar soporte y evolución del producto).
 
-**Ideal para personas que quieren empezar con bajo riesgo, generar ingresos rápidos y aprender el negocio.**
+**Ideal para personas que quieren empezar con bajo riesgo, generar ingresos rápidos.**
 
 ## Opción 2: Marca Blanca OkeyPay
 
 Tu propio negocio, con tu marca.
+
 ### Planes Disponibles
 
 - **Plan Base:** $300 USD → Personalización mínima (tu logo, colores).
@@ -39,7 +40,7 @@ Tu propio negocio, con tu marca.
 
 ### Ganancias Recurrentes
 
-- **$1 USD por cada suscriptor de tu cliente.**
+- **$1 USD por cada suscriptor.**
 - Controlas tu propia base de usuarios y tu marca.
 
 ### Soporte
