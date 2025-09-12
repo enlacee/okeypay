@@ -1,12 +1,7 @@
 # 📲 Manual/problemas comunes al instalar [OkeyPay](http://okeypay.anibalcopitan.com/)
 
-**Soporte Directo**
 
-¿Tienes dudas o algo no te funciona?
-Escríbenos directamente por WhatsApp 👉 [Click aquí](https://wa.me/51970142637)
-
-
-## 🔧 Problemas Comunes en Celulares
+## 🔧 Problemas Comunes
 
 
 ### 1. Desactivar Play protect
@@ -19,7 +14,7 @@ Algunas veces necesitaras desabilitar play protect para poder instalar applicaci
 
 
 
-### 2. Xiaomi:  Configuración restringida (acceso a notificaciones)
+### 2. Configuración restringida (acceso a notificaciones)
 
 Algunos modelos Xiaomi tienen particularidades.
 
@@ -29,4 +24,9 @@ Algunos modelos Xiaomi tienen particularidades.
 
 [![Video YouTube](https://img.youtube.com/vi/KIWMpMJeX1w/0.jpg)](https://www.youtube.com/embed/KIWMpMJeX1w?start=60)
 
+
+**Soporte Directo**
+
+¿Tienes dudas o algo no te funciona?
+Escríbenos directamente por WhatsApp 👉 [Click aquí](https://wa.me/51970142637)
 
