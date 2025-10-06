@@ -1,5 +1,9 @@
 # 📲 Manual/problemas comunes al instalar [OkeyPay](http://okeypay.anibalcopitan.com/)
 
+## Cómo GRABAR la PANTALLA de tu MÓVIL ANDROID GRATIS
+
+[![Video YouTube](https://img.youtube.com/vi/DXNOlJC3XDw/0.jpg)](https://www.youtube.com/embed/DXNOlJC3XDw?start=41)
+
 
 ## 🔧 Problemas Comunes
 
