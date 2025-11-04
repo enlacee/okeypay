@@ -19,6 +19,8 @@ node v14
 
 Common commands
 
+	cd app-frontend
+
     nvm use 14
     npm install
     npm run watch
