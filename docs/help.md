@@ -29,6 +29,14 @@ Algunos modelos Xiaomi tienen particularidades.
 [![Video YouTube](https://img.youtube.com/vi/KIWMpMJeX1w/0.jpg)](https://www.youtube.com/embed/KIWMpMJeX1w?start=60)
 
 
+### 3. No optimizar bateria en Xiaomi
+
+Error comun verificar permisos.
+No optimizar bareria con la App.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QEkSJgurosE?si=_Spq0VMhW1klqj-H" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
 **Soporte Directo**
 
 ¿Tienes dudas o algo no te funciona?
