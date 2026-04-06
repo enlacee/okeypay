@@ -16,8 +16,6 @@ Algunas veces necesitaras desabilitar play protect para poder instalar applicaci
 
 [![Video YouTube](https://img.youtube.com/vi/1-pgPqcUJfY/0.jpg)](https://www.youtube.com/watch?v=1-pgPqcUJfY)
 
-
-
 ### 2. Configuración restringida (acceso a notificaciones)
 
 Algunos modelos Xiaomi tienen particularidades.
@@ -35,6 +33,16 @@ Error comun verificar permisos.
 No optimizar bareria con la App.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QEkSJgurosE?si=_Spq0VMhW1klqj-H" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+### 4. Fijar OkeyPay para acceso rápido y funcionamiento óptimo (recomendado)
+
+Fijar OkeyPay permite acceder rápidamente a la app y evita posibles fallos o interrupciones en su funcionamiento. Esto es especialmente importante en dispositivos con ahorro de batería agresivo, como algunos modelos de Xiaomi.
+
+<video controls preload="metadata"
+style="width: 100%; max-height: 500px; height: auto; object-fit: contain;">
+<source src="dist/images/help-fijar-okeypay.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
 
 
 **Soporte Directo**
